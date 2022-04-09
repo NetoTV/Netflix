@@ -23,4 +23,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Projeto clone da home do Netflix.
 
-> [Acesse o site]()
+> [Acesse o site](https://netflixhome-plb.netlify.app)
